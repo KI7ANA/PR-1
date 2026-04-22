@@ -75,8 +75,6 @@ protected void onDraw(Canvas canvas) {
 
     canvas.drawRect(left, top, right, bottom, p);
 }
-
-<div align="center">
   
 <img width="503" height="815" alt="image" src="https://github.com/user-attachments/assets/08c8e44c-5822-4a4f-89dd-324618bfecef" />
 
