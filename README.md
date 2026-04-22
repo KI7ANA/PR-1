@@ -61,7 +61,7 @@
 
 <div align="center">
 
-<img width="1909" height="1022" alt="image" src="https://github.com/user-attachments/assets/14cc53e0-10ee-4cf1-8e55-fe9438841932" />
+<img width="1203" height="912" alt="image" src="https://github.com/user-attachments/assets/b6bf8a40-a307-43a5-bfac-86f6dfd6adcf" />
 
 *Рисунок 3. Отображение даты рождения на главной странице приложения*
 
