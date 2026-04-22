@@ -196,8 +196,6 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 
-<div align="center">
-
 <img width="1203" height="912" alt="image" src="https://github.com/user-attachments/assets/b6bf8a40-a307-43a5-bfac-86f6dfd6adcf" />
 
 </div>
